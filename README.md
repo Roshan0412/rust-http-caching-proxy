@@ -247,8 +247,11 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 8. Push to the branch (`git push origin feature/amazing-feature`)
 9. Open a Pull Request
 
+
 ## 📬 Contact
 
-**Developer**: Roshan Jha
-- 📧 **Email**: roshan.jha@rapidops.co
-- 🐙 **GitHub**: [Roshan0412](https://github.com/Roshan0412)
+For questions, feedback, or contributions, feel free to reach out:
+
+* **Developer:** Roshan Jha
+* **Email:** [roshanjha.work@gmail.com](mailto:roshanjha.work@gmail.com)
+* **GitHub:** [Roshan0412](https://github.com/Roshan0412)
